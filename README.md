@@ -47,3 +47,20 @@ Gelecek Çalışmalar:
 
 * Karma yaklaşımlar (örneğin, kural tabanlı + öğrenme tabanlı) araştırılabilir.
 
+## 5. Çalıştırılmış Halı:
+![Ekran görüntüsü 2025-01-16 222327](https://github.com/user-attachments/assets/51790a29-26d2-4b4f-ac5f-77a85f439eec)
+
+![Ekran görüntüsü 2025-01-16 222406](https://github.com/user-attachments/assets/74c50d10-64bb-4adc-85fd-3741bf7905cf)
+
+![Ekran görüntüsü 2025-01-16 222422](https://github.com/user-attachments/assets/7d9ed283-49f3-4e2b-972d-fb83d6d36e62)
+
+![Ekran görüntüsü 2025-01-16 222455](https://github.com/user-attachments/assets/3c94decd-4660-4848-86ce-28ad77fa5b63)
+
+![Ekran görüntüsü 2025-01-16 224125](https://github.com/user-attachments/assets/0ed39b20-eefd-4212-8105-30e62c69c48e)
+
+![Ekran görüntüsü 2025-01-16 224205](https://github.com/user-attachments/assets/b0f5d657-7864-4df4-97bc-b00c8e061f63)
+
+
+
+
+
